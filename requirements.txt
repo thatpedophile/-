@@ -1,0 +1,17 @@
+python-telegram-bot==20.3
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+pydub==0.25.1
+numpy==1.24.3
+librosa==0.10.0
+soundfile==0.12.1
+openai==0.27.8
+gTTS==2.3.2
+pyaudio==0.2.13
+scipy==1.10.1
+ffmpeg-python==0.2.0
+torch==2.0.1
+torchaudio==2.0.2
+pytorch-lightning==2.0.2
+transformers==4.29.2
+python-dotenv==1.0.0
